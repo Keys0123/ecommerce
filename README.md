@@ -25,7 +25,7 @@ About This Course:
 -   🛡️ Data Protection
 -   🚀Caching with Redis
 -   ⌛ And a lot more...
-
+yes ut is
 ### Setup .env file
 
 ```bash
