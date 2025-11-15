@@ -4,7 +4,7 @@
 
 [Video Tutorial on Youtube](https://youtu.be/sX57TLIPNx8)
 
-About This Course: djjd
+About This Course: 
 
 -   🚀 Project Setup
 -   🗄️ MongoDB & Redis Integration
