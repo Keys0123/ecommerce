@@ -1,4 +1,4 @@
-cc<h1 align="center">E-Commerce Store 🛒</h1>
+c<h1 align="center">E-Commerce Store 🛒</h1>
 
 ![Demo App](/frontend/public/screenshot-for-readme.png)
 
